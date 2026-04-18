@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi!%20Arkanzahir's%20here&fontSize=36&fontAlignY=36&animation=twinkling&fontColor=ffffff" width="100%" />
+  <img src="assets/header-collage.jpg" width="100%" />
 </div>
 
 <div align="center">
@@ -18,7 +18,7 @@
 
 <div align="center">
   CS Student @ ITS Surabaya<br/>
-  Interested in AI/ML and Cybersecurity
+  Interested in AI/ML, Cybersecurity, and Web Development
 </div>
 
 ---
