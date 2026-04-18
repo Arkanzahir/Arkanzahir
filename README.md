@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header-collage.jpg" width="100%" />
+  <img src="Programming%20aesthetic%20wallpaper.jpg" width="100%" />
 </div>
 
 <div align="center">
