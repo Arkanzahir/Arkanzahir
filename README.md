@@ -18,7 +18,7 @@
 
 <div align="center">
   CS Student @ ITS Surabaya<br/>
-  Interested in AI/ML, Cybersecurity, and Web Development
+  Interested in AI/ML and Cybersecurity
 </div>
 
 ---
