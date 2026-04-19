@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="Programming%20aesthetic%20wallpaper.jpg" width="80%" />
+  <img src="dino.jpg" width="100%" />
 </div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Arkanzahir&color=6c8ebf&style=flat-square&label=visitors" alt="Profile Views" />
