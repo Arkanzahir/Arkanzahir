@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Programming%20aesthetic%20wallpaper.jpg" width="100%" />
+  <img src="Programming%20aesthetic%20wallpaper.jpg" width="40%" />
 </div>
 
 <div align="center">
@@ -43,5 +43,5 @@
 ---
 
 <div align="center">
-  <img src="download%20(2).jpg" width="100%" />
+  <img src="download%20(2).jpg" width="40%" />
 </div>
