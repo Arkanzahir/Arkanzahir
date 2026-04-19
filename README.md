@@ -44,5 +44,5 @@
 ---
 
 <div align="center">
-  <img src="download%20(2).jpg" width="40%" />
+  <img src="dino2.jpg" width="90%" />
 </div>
